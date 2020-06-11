@@ -20,7 +20,7 @@ About Project:
 <br>Business Problems Answered:</br>
 <br>
 1. Find out the best typical investment amounts ( venture, seed , angel or private equity) within the company's range?</br>
-
-<br>2. Find out the best English speaking countries which have been most heavily invested in past? </br>
-
-<br>3. Find out the best sectors to invest in? </br>
+<br>
+2. Find out the best English speaking countries which have been most heavily invested in past? </br>
+<br>
+3. Find out the best sectors to invest in? </br>
